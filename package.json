@@ -1,0 +1,14 @@
+{
+  "name": "memo-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.10.1",
+    "gulp": "^3.8.9",
+    "gulp-util": "^3.0.1"
+  },
+  "devDependencies": {
+    "gulp-jshint": "^1.9.0",
+    "gulp-watch": "^2.0.0",
+    "jshint-stylish": "^1.0.0"
+  }
+}
