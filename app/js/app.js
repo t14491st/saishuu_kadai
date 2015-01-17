@@ -202,6 +202,8 @@ var displayMemo = function(memo){
 
 };
 
+
+/*並び替え*/
 var restoreMemo = function(){
   var i = 0;
   if(memos.length > 0){
@@ -215,7 +217,7 @@ var restoreMemo = function(){
         };
 };
 
-
+/*配列をソート*/
 
 var array = function(){
 
